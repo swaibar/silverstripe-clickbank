@@ -7,9 +7,8 @@ Maintainer Contacts
 
 Requirements
 ------------
-* SilverStripe 2.4+
-* The [Member Profile Pages](https://github.com/ajshort/silverstripe-memberprofiles) module
-* The [Orderable](https://github.com/ajshort/silverstripe-orderable) module 
+* SilverStripe 3.*
+* The [Member Profile Pages](https://github.com/symbiote/silverstripe-memberprofiles) module
 
 Supported ClickBank Features
 ----------------------------
@@ -31,17 +30,13 @@ The following list are the features/functionality of the module :
 
 Installation Instructions
 -------------------------
-1. Place the module in the root of your Silverstripe installation. Make sure the directory name is 'clickbank' 
-2. Visit yoursite.com/dev/build to rebuild the database.
-3. By default, the module is not enabled. To enable it, you need to add the following into your mysite/_config.php file : <code>ClickBankManager::enable();</code> 
+1. Use composer
 
 Todos
 ----- 
 * Test cases
 * More documentation 
 * Admin report page
-* ClickBank API integration
-* Port to Silverstripe 3.0
 
 Bugs / Feature Request 
 ----------------------
