@@ -1,0 +1,25 @@
+{
+	"name": "swaibar/silverstripe-clickbank",
+	"description": "A ClickBank module based on http://rixrix.github.io/silverstripe-clickbank/",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "clickbank", "ecommerce"],
+	"homepage": "http://github.com/micschk/silverstripe-signaturefield",
+	"authors": [
+	{
+		"name": "Richard Sentino",
+		"email": "rix@mindginative.com"
+	},
+	{
+		"name": "Barry Swaisland",
+		"email": "barry@swaisland.co.uk"
+	}
+	],
+
+	"require":
+	{
+		"silverstripe/framework": "3.*"
+	},
+	"extra": {
+		"installer-name": "clickbank"
+	}
+}
