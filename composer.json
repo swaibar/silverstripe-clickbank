@@ -3,7 +3,7 @@
 	"description": "A ClickBank module based on http://rixrix.github.io/silverstripe-clickbank/",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "clickbank", "ecommerce"],
-	"homepage": "http://github.com/micschk/silverstripe-signaturefield",
+	"homepage": "https://github.com/swaibar/silverstripe-clickbank/",
 	"authors": [
 	{
 		"name": "Richard Sentino",
